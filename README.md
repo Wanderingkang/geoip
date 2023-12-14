@@ -6,7 +6,7 @@ This project releases GeoIP files automatically every Thursday. It also provides
 
 ## 与官方版 GeoIP 的区别
 
-- 中国大陆 IPv4 地址数据使用 [IPIP.net](https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt)
+- 中国大陆 IPv4 地址数据使用 [苍狼山庄](https://ispip.clang.cn/)、[纯真IP](https://github.com/metowolf/iplist)、[IPIP.NET](https://github.com/17mon/china_ip_list)、[gaoyifan](https://github.com/gaoyifan/china-operator-ip)
 - 新增类别（方便有特殊需求的用户使用）：
   - `geoip:cloudflare`（`GEOIP,CLOUDFLARE`）
   - `geoip:cloudfront`（`GEOIP,CLOUDFRONT`）
