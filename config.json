@@ -98,6 +98,15 @@
         "outputName": "Private-GeoIP-CN.mmdb",
         "wantedList": [
           "cn"
+          "private",
+          "cloudflare",
+          "cloudfront",
+          "facebook",
+          "fastly",
+          "google",
+          "netflix",
+          "telegram",
+          "twitter"
         ]
       }
     },
